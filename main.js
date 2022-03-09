@@ -7,3 +7,7 @@ function increment() {
     console.log("Test")
 }
 
+function save() {
+    alert(count)
+}
+
